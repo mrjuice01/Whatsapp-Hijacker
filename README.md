@@ -1,6 +1,5 @@
 # Whatsapp-Hijacker
-This Tool is for Educational purposes only Dont use To Harm anyone 
-# WhatsApp Bann Master
+# This Tool is for Educational purposes only Dont use To Harm anyone 
 # This is a Tool used to Bann whatsapp Accounts
 This script was created by Mr Juice and Without Contributors😂 Dont Worry I work Alone
 
@@ -10,7 +9,7 @@ Too bad That I wont give Comants On How To use it Unless You Follow All my Accou
 <p align="center">
     <a href="https://github.com/47hxl-53r">
         <img
-src="https://readme-typing-svg.herokuapp.com/?size=35&width=800&lines=WhatsApp+Banning+tool+by+Mr+Juice"
+src="https://readme-typing-svg.herokuapp.com/?size=35&width=800&lines=WhatsApp+Hijacking+tool+by+Mr+Juice"
             alt="Typing SVG"
         />
     </a>
@@ -20,7 +19,7 @@ src="https://readme-typing-svg.herokuapp.com/?size=35&width=800&lines=WhatsApp+B
 # Coded by Mr Juice
 # Follow All my Accounts Below
 
-<a href="https://github.com/mrjuice01"><img src="https://github.com/mrjuice01.png?size=100" width="100" height="100">
+<a href="https://github.com/mrjuice01"><img src="https://github.com/mrjuice01.png?">
     
 
 <p align="center">
@@ -41,10 +40,6 @@ src="https://readme-typing-svg.herokuapp.com/?size=35&width=800&lines=WhatsApp+B
 </br>
      </br>  
      
-
-# WhatsApp Bann Master
-![Screenshot_20220919-235623-1](https://user-images.githubusercontent.com/100421286/191132642-dc983e0a-0166-4ae8-a33d-dbbad6758193.jpg)
-
 # Tutorials Video
 Click [here](https://m.youtube.com/channel/UCK29cXcpU7LKQCldqOsPzgg) for Video
 ```
